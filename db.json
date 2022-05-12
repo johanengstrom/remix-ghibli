@@ -1,0 +1,34 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "name": "Marius",
+      "message": "yoooo soo good!!",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+    },
+    {
+      "id": 2,
+      "name": "Marius",
+      "message": "some comment",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49"
+    },
+    {
+      "name": "test",
+      "message": "test",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+      "id": 3
+    },
+    {
+      "name": "Freda",
+      "message": "Det är fredag!",
+      "filmId": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+      "id": 4
+    },
+    {
+      "name": "tre",
+      "message": "tennis",
+      "filmId": "12cfb892-aac0-4c5b-94af-521852e46d6a",
+      "id": 5
+    }
+  ]
+}
